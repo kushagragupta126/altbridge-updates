@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AltBridge</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sun, 11 Oct 2026 01:18:01 +0530</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Licence keys: AltBridge asks for the key from your invite, and beta keys show how many days are left
+- Your licence is in the menu-bar panel and in Settings › About
+- A gentle reminder in a beta's last week
+- If a shortcut needs a key, AltBridge says so where you pressed it, with an Enter Key button
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/kushagragupta126/altbridge-updates/main/archives/AltBridge-1.1.zip" length="2828132" type="application/octet-stream" sparkle:edSignature="Y0FKCNce/gYXJ1Xqtn7pUKnQjsO8umJOs7AtF/LCcUTQv3zo+SLG+6H/NYPZl1PDR4Qt1EFOpGBEjE78pZZdDQ=="/>
+        </item>
+    </channel>
+</rss>

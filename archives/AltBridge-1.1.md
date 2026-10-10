@@ -1,0 +1,4 @@
+- Licence keys: AltBridge asks for the key from your invite, and beta keys show how many days are left
+- Your licence is in the menu-bar panel and in Settings › About
+- A gentle reminder in a beta's last week
+- If a shortcut needs a key, AltBridge says so where you pressed it, with an Enter Key button
