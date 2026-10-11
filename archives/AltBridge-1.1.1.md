@@ -1,0 +1,2 @@
+- Lifetime licences: keys that never end show as "Lifetime" in Settings › About
+- The read-me in the download now covers entering your licence key

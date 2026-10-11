@@ -3,6 +3,17 @@
     <channel>
         <title>AltBridge</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Sun, 11 Oct 2026 09:39:38 +0530</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Lifetime licences: keys that never end show as "Lifetime" in Settings › About
+- The read-me in the download now covers entering your licence key
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/kushagragupta126/altbridge-updates/main/archives/AltBridge-1.1.1.zip" length="2828094" type="application/octet-stream" sparkle:edSignature="8oBAsxQ6HnboUuzuki0/ZHKagp60I7IGsOzYaGmpNTjJukZ9ER0f8LnBjeKTflBpZDNaW57ilk9P0LGjUHbcBg=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Sun, 11 Oct 2026 01:18:01 +0530</pubDate>
             <sparkle:version>19</sparkle:version>
