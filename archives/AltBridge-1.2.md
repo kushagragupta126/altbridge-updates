@@ -1,0 +1,2 @@
+- A 30-day free trial: AltBridge works straight away, then asks for a licence key
+- Report a Problem now goes straight to the developer's email

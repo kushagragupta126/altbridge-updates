@@ -3,6 +3,17 @@
     <channel>
         <title>AltBridge</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Sun, 11 Oct 2026 18:11:12 +0530</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- A 30-day free trial: AltBridge works straight away, then asks for a licence key
+- Report a Problem now goes straight to the developer's email
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/kushagragupta126/altbridge-updates/main/archives/AltBridge-1.2.zip" length="2837083" type="application/octet-stream" sparkle:edSignature="jN+CDV45qmG17N0FxYAb7Nxb2PAWrRs8C5K/JkNCjnUKYiC+OOLrlJIj0Hy/nk6m1lP0w+ZSkQ7uxLLYs7OYDA=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Sun, 11 Oct 2026 09:39:38 +0530</pubDate>
             <sparkle:version>20</sparkle:version>
