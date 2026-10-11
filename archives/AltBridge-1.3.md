@@ -1,0 +1,2 @@
+- Report a Problem now goes to altbridge.support@gmail.com
+- Anonymous usage counts (a random ID, the version, trial or licensed), with an off switch in Settings › About
