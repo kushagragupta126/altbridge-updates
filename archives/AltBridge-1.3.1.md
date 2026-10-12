@@ -1,0 +1,1 @@
+- Key tips now show on every screen: with more than one display, the badges were drawn on the wrong screen and stayed invisible
