@@ -3,6 +3,16 @@
     <channel>
         <title>AltBridge</title>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Wed, 14 Oct 2026 15:07:40 +0530</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- No more keychain password prompts about "app.altbridge.trial" after updating
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/kushagragupta126/altbridge-updates/main/archives/AltBridge-1.3.2.zip" length="2846753" type="application/octet-stream" sparkle:edSignature="y+xW9lyiBALQIKpwf3aqdoAMoPzeHbAWy0+Tqx61C2um+toXhDCAlgj/x2PyXRxyAVUyab8mah64dYYfDPo6Cg=="/>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Mon, 12 Oct 2026 23:46:33 +0530</pubDate>
             <sparkle:version>23</sparkle:version>

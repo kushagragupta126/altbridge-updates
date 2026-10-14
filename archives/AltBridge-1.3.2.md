@@ -1,0 +1,1 @@
+- No more keychain password prompts about "app.altbridge.trial" after updating
