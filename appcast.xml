@@ -3,6 +3,17 @@
     <channel>
         <title>AltBridge</title>
         <item>
+            <title>1.3.3</title>
+            <pubDate>Thu, 15 Oct 2026 13:09:37 +0530</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Key tips always appear on the workbook you're working in, even with several Excel windows, two screens or one in full screen
+- What's New: every version's changes in Settings, and a note after each update with a See What's New button
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/kushagragupta126/altbridge-updates/main/archives/AltBridge-1.3.3.zip" length="2861900" type="application/octet-stream" sparkle:edSignature="5o2OEp74MyB+Kh4rDt2ggSbOfDmx58nb+h7l/lKvpam2z0yVn6gl+uvvD0/wEwXfsjSqpC/e4FydeLaz0VnTAQ=="/>
+        </item>
+        <item>
             <title>1.3.2</title>
             <pubDate>Wed, 14 Oct 2026 15:07:40 +0530</pubDate>
             <sparkle:version>24</sparkle:version>

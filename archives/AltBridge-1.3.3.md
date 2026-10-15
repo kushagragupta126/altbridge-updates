@@ -1,0 +1,2 @@
+- Key tips always appear on the workbook you're working in, even with several Excel windows, two screens or one in full screen
+- What's New: every version's changes in Settings, and a note after each update with a See What's New button
