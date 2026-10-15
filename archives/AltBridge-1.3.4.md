@@ -1,0 +1,1 @@
+- Key tips, learning hints and notices now show over Excel in full screen, also with Stage Manager and two displays

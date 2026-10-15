@@ -2,6 +2,10 @@
 
 What changed in each version. [Download the latest AltBridge](https://github.com/kushagragupta126/altbridge-updates/raw/main/download/AltBridge.dmg).
 
+## 1.3.4 · 16 Oct 2026
+
+- Key tips, learning hints and notices now show over Excel in full screen, also with Stage Manager and two displays
+
 ## 1.3.3 · 15 Oct 2026
 
 - Key tips always appear on the workbook you're working in, even with several Excel windows, two screens or one in full screen
