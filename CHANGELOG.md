@@ -2,6 +2,12 @@
 
 What changed in each version. [Download the latest AltBridge](https://github.com/kushagragupta126/altbridge-updates/raw/main/download/AltBridge.dmg).
 
+## 1.3.6 · 28 Oct 2026
+
+- Notices fit their whole message and sit just above the sheet tabs of the Excel window you're using, wherever it is
+- Settings no longer shifts sideways when you open Learning Hints
+- Lighter on Excel: clicking in your sheet no longer makes AltBridge ask Excel anything (learning hints only look at ribbon and menu clicks)
+
 ## 1.3.5 · 28 Oct 2026
 
 - AltBridge keeps hearing your keys after your Mac has sat idle, slept or locked for hours: it no longer naps, and it restarts its keyboard listener after wake and unlock

@@ -1,0 +1,3 @@
+- Notices fit their whole message and sit just above the sheet tabs of the Excel window you're using, wherever it is
+- Settings no longer shifts sideways when you open Learning Hints
+- Lighter on Excel: clicking in your sheet no longer makes AltBridge ask Excel anything (learning hints only look at ribbon and menu clicks)
