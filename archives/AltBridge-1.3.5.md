@@ -1,0 +1,2 @@
+- AltBridge keeps hearing your keys after your Mac has sat idle, slept or locked for hours: it no longer naps, and it restarts its keyboard listener after wake and unlock
+- If macOS Secure Input is hiding your keys (often left on after unlocking), AltBridge now says so and how to clear it

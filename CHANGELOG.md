@@ -2,6 +2,11 @@
 
 What changed in each version. [Download the latest AltBridge](https://github.com/kushagragupta126/altbridge-updates/raw/main/download/AltBridge.dmg).
 
+## 1.3.5 · 28 Oct 2026
+
+- AltBridge keeps hearing your keys after your Mac has sat idle, slept or locked for hours: it no longer naps, and it restarts its keyboard listener after wake and unlock
+- If macOS Secure Input is hiding your keys (often left on after unlocking), AltBridge now says so and how to clear it
+
 ## 1.3.4 · 16 Oct 2026
 
 - Key tips, learning hints and notices now show over Excel in full screen, also with Stage Manager and two displays
