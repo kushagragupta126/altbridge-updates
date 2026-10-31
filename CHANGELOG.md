@@ -2,6 +2,12 @@
 
 What changed in each version. [Download the latest AltBridge](https://github.com/kushagragupta126/altbridge-updates/raw/main/download/AltBridge.dmg).
 
+## 1.3.7 · 31 Oct 2026
+
+- A new icon: cars crossing a bridge that stands on the Alt and ⌥ keys, with a simpler version for small sizes
+- The cars drive across the logo in the menu-bar panel, Settings › About and the welcome window
+- A new menu-bar icon to match: its keys fill while you type a sequence in Excel, and a little car crosses when the shortcut runs
+
 ## 1.3.6 · 28 Oct 2026
 
 - Notices fit their whole message and sit just above the sheet tabs of the Excel window you're using, wherever it is

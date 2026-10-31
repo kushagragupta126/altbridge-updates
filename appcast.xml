@@ -3,6 +3,18 @@
     <channel>
         <title>AltBridge</title>
         <item>
+            <title>1.3.7</title>
+            <pubDate>Sat, 31 Oct 2026 14:42:19 +0530</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- A new icon: cars crossing a bridge that stands on the Alt and ⌥ keys, with a simpler version for small sizes
+- The cars drive across the logo in the menu-bar panel, Settings › About and the welcome window
+- A new menu-bar icon to match: its keys fill while you type a sequence in Excel, and a little car crosses when the shortcut runs
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/kushagragupta126/altbridge-updates/main/archives/AltBridge-1.3.7.zip" length="3061327" type="application/octet-stream" sparkle:edSignature="iCm02ICEovdTibNxnm3h66aCC0O5XMewpcFJEnb2eSRBPYhC560rihtW4xTdDrPWLdKnGf/J8vfDoSxmJ1VjDw=="/>
+        </item>
+        <item>
             <title>1.3.6</title>
             <pubDate>Wed, 28 Oct 2026 23:53:14 +0530</pubDate>
             <sparkle:version>28</sparkle:version>
@@ -98,19 +110,6 @@
 - The read-me in the download now covers entering your licence key
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/kushagragupta126/altbridge-updates/main/archives/AltBridge-1.1.1.zip" length="2828094" type="application/octet-stream" sparkle:edSignature="8oBAsxQ6HnboUuzuki0/ZHKagp60I7IGsOzYaGmpNTjJukZ9ER0f8LnBjeKTflBpZDNaW57ilk9P0LGjUHbcBg=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Sun, 11 Oct 2026 01:18:01 +0530</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Licence keys: AltBridge asks for the key from your invite, and beta keys show how many days are left
-- Your licence is in the menu-bar panel and in Settings › About
-- A gentle reminder in a beta's last week
-- If a shortcut needs a key, AltBridge says so where you pressed it, with an Enter Key button
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/kushagragupta126/altbridge-updates/main/archives/AltBridge-1.1.zip" length="2828132" type="application/octet-stream" sparkle:edSignature="Y0FKCNce/gYXJ1Xqtn7pUKnQjsO8umJOs7AtF/LCcUTQv3zo+SLG+6H/NYPZl1PDR4Qt1EFOpGBEjE78pZZdDQ=="/>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,3 @@
+- A new icon: cars crossing a bridge that stands on the Alt and ⌥ keys, with a simpler version for small sizes
+- The cars drive across the logo in the menu-bar panel, Settings › About and the welcome window
+- A new menu-bar icon to match: its keys fill while you type a sequence in Excel, and a little car crosses when the shortcut runs
